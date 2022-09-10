@@ -1,0 +1,24 @@
+hr {
+    border-style: dotted;
+    border-bottom: 0px;
+    width: 4%;
+}
+
+.body {
+    background-color: #B1D7B4;
+    align-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tb {
+    align-content: center;
+}
+
+.wiz {
+    border-radius: 360px;
+    align-self: center;
+}
+
+.Div1 {
+    text-align: center;
+}
